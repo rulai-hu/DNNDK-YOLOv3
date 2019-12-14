@@ -1,0 +1,8 @@
+/home/root2/ML/YOLOv3/yolo_convertor/example_yolov3/5_file_for_test/test.jpg 0.996799 42.0844 16.3985 353 485.351
+/home/root2/ML/YOLOv3/yolo_convertor/example_yolov3/5_file_for_test/test.jpg 0.245967 48.6832 237.693 193.577 373.885
+/home/root2/ML/YOLOv3/yolo_convertor/example_yolov3/5_file_for_test/test.jpg 0.0978759 1 108.419 353 490.407
+/home/root2/ML/YOLOv3/yolo_convertor/example_yolov3/5_file_for_test/test.jpg 0.00668065 1 176.519 353 484.48
+/home/root2/ML/YOLOv3/yolo_convertor/example_yolov3/5_file_for_test/test.jpg 0.105866 1 108.419 353 490.407
+/home/root2/ML/YOLOv3/yolo_convertor/example_yolov3/5_file_for_test/test.jpg 0.00619625 14.7675 25.3903 350.165 324.561
+/home/root2/ML/YOLOv3/yolo_convertor/example_yolov3/5_file_for_test/test.jpg 0.208174 4.07681 33.4884 353 500
+/home/root2/ML/YOLOv3/yolo_convertor/example_yolov3/5_file_for_test/test.jpg 0.012626 4.07681 33.4884 353 500

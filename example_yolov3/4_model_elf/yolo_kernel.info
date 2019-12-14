@@ -1,0 +1,15 @@
+
+DNNC Kernel Information
+
+1. Overview
+kernel numbers  : 1
+kernel topology : yolo_kernel_graph.jpg
+
+2. Kernel Description in Detail
+kernel id       : 0
+kernel name     : yolo
+type            : DPUKernel
+nodes           : NA
+input node(s)   : layer0_conv(0) 
+output node(s)  : layer81_conv(0) layer93_conv(0) layer105_conv(0) 
+

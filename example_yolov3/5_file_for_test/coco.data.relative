@@ -1,0 +1,4 @@
+classes = 80
+
+valid = PATH_TO/example_yolov3/5_file_for_test/image.txt
+names = PATH_TO/example_yolov3/5_file_for_test/coco.names

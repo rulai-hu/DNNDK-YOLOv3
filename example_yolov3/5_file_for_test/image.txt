@@ -1,0 +1,1 @@
+/home/root2/ML/YOLOv3/yolo_convertor/example_yolov3/5_file_for_test/test.jpg
